@@ -14,7 +14,7 @@
 - ⚡ <tt>Fun fact: the moons about<b>238,000</b>miles away</tt>
 <hr>
 <img src=
-![snake animation]"https://github.com/github_user_name/github_user_name/blob/output/github-contribution-grid-snake2.svg"align=bottom>
+![snake animation]"https://github.com/github_user_name/github_user_name/blob/output/github-contribution-grid-snake2.svg"align=center>
 
 
 
