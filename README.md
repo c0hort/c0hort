@@ -1,5 +1,4 @@
 # 💫 About Me:
-<br>
 # <b><tt>Data Analyst & Info-Sec Professional</tt></b>
 <hr noshade>
 
