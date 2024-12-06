@@ -27,10 +27,4 @@ and other random data science related areas of study.
 
 You can find me on linked in
 ---
-
-<div class="container">
-        <div class="span2">
-        <a href="../pics/headshot1.png">
-            <img src="../pics/headshot1.png"
-                  title="anthony m." alt="anthony m."/></a>
-        </div> 
+         
