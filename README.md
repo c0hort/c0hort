@@ -3,7 +3,7 @@
 <b><tt>Data Analyst & Info-Sec Professional</tt></b>
 <hr noshade>
 
-Follow me on LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=anthony-mcwhite-4a01511a0
+[![Follow me on LinkedIn:] (https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=anthony-mcwhite-4a01511a0)
  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@null.com)
 <hr noshade>
 
