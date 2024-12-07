@@ -9,6 +9,7 @@ of ethical hacking.
 
 - [i guess im a professional](https://www.hackthebox.com/achievement/badge/712007/216)
 - [have a look @ my hack the box profile](https://app.hackthebox.com/profile/712007)
-- [ethical hacking academy](https://referral.hackthebox.com/mzAX8lj) 
+- [ethical hacking academy](https://referral.hackthebox.com/mzAX8lj)
+- [Not for the faint of heart - testing](https://imghost.pics/image.php?id=9RFVTT.jpg)
 
 ---
