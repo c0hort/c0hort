@@ -5,8 +5,8 @@ description: anthony mcwhite is a data analyst and info-sec professional.
 
 ---
 
-I am a certified data analyst and a seasoned ethical hacker. Ive earned a variety
-of professional level certifications while applying my craft. These include; 
+My name is Anthony and I am a certified data/intelligence analyst and seasoned ethical hacker. Though my skillset is broad, my strongest talents are in Social Engineering, Penetrative Testing, and Data Analysis.
+Ive earned a variety of professional level certifications while applying my craft. These include; 
 
 |CompTIA's Project+ (pk001)|
 |CompTIA's Data+ ce (da001)|
