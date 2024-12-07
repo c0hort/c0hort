@@ -23,5 +23,7 @@ considerable amount of time researching and practicing my craft. I compete in ct
 I am able and thoroughly enjoy open source intelligence gathering for case studies
 and other random data science related areas of study. 
 
+Follow me on LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=anthony-mcwhite-4a01511a0
+
 ---
          
