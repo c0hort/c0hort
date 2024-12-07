@@ -22,9 +22,5 @@ I spend a lot of time prototyping with arduino, raspberry pi and adafruit. I als
 considerable amount of time researching and practicing my craft. I compete in ctf's when
 I am able and thoroughly enjoy open source intelligence gathering for case studies
 and other random data science related areas of study. 
-
-
-
-You can find me on linked in
 ---
          
