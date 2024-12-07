@@ -2,6 +2,7 @@
 layout: page
 title: about
 description: anthony mcwhite is a data analyst and info-sec professional. 
+
 ---
 
 I am a certified data analyst and a seasoned ethical hacker. Ive earned a variety
@@ -12,7 +13,6 @@ of professional level certifications while applying my craft. These include;
 -Google Cybersecurity Professional
 -Google AI Essentials
 -Scrum Master Certified 
-and more ...
 
 The majority of my skill set is a product of my passion for tech and creative thinking.
 I originally began university for health and human services to become a social worker.
@@ -22,5 +22,6 @@ I spend a lot of time prototyping with arduino, raspberry pi and adafruit. I als
 considerable amount of time researching and practicing my craft. I compete in ctf's when
 I am able and thoroughly enjoy open source intelligence gathering for case studies
 and other random data science related areas of study. 
+
 ---
          
