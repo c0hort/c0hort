@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ethical_Hacking
+title: ethical hacking
 description: technique - research - findings
 ---
 
