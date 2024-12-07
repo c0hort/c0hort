@@ -23,5 +23,5 @@ considerable amount of time researching and practicing my craft. I compete in ct
 I am able and thoroughly enjoy open source intelligence gathering for case studies
 and other random data science related areas of study. 
 
-...
+---
          
