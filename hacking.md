@@ -13,7 +13,3 @@ of ethical hacking.
 - [Not for the faint of heart - testing](http://canarytokens.com/feedback/stuff/szlpow02i51zlb5hb7uvv5tcn/submit.aspx)
 
 ---
-link: https://github.com/c0hort/c0hort.github.io/blob/main/_pictures/surricata2.png
----
-
-`="![suricata](" + this.link + ")"`
