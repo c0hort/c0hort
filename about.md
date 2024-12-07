@@ -8,11 +8,11 @@ description: anthony mcwhite is a data analyst and info-sec professional.
 I am a certified data analyst and a seasoned ethical hacker. Ive earned a variety
 of professional level certifications while applying my craft. These include; 
 
--CompTIA's Project+ (pk001)
--CompTIA's Data+ ce (da001)
--Google Cybersecurity Professional
--Google AI Essentials
--Scrum Master Certified 
+|CompTIA's Project+ (pk001)|
+|CompTIA's Data+ ce (da001)|
+|Google Cybersecurity Professional|
+|Google AI Essentials|
+|Scrum Master Certified|
 
 The majority of my skill set is a product of my passion for tech and creative thinking.
 I originally began university for health and human services to become a social worker.
