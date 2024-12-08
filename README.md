@@ -1,5 +1,5 @@
 
-<b><i><tt>who am i?</b></i></tt>
+<b><i><tt>who am i?</tt></i></b>
 
 <b><tt>My name is Anthony and I study Data Science - Analytics - Information-Security - Sigint - Osint. I serve as a consultant and independent contractor and have worked with a variety of clients from different fields. My current research revolves around blockchain technology ethereum smart contracts being integrated into industries that have yet to adopt fintech. I also believe in people over profit</tt></b>
 <hr noshade>
