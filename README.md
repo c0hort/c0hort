@@ -1,17 +1,3 @@
-<head>
-  <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-R6RRJVEM0L"></script>
-  <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-    gtag('config', 'G-R6RRJVEM0L');
-  </script>
-</head>
-<br>
-
-<b><i><tt>who am i?</tt></i></b>
 
 <b><tt>My name is Anthony and I study Data Science - Analytics - Information-Security - Sigint - Osint. I serve as a consultant and independent contractor and have worked with a variety of clients from different fields. My current research revolves around blockchain technology ethereum smart contracts being integrated into industries that have yet to adopt fintech. I also believe in people over profit</tt></b>
 <hr noshade>
