@@ -1,4 +1,4 @@
-### Analysts Comments are contributed by;
+### Analysts Comments contributed by;
 
 <tt>Me and my name is Anthony. I study Data Science - Analytics - Information Security - Sigint - Osint. I serve as a consultant and independent contractor cirrently and have worked with a variety of clients from different fields. Some of my current research revolves around blockchain technology and ethereum smart contracts being integrated into industries that have yet to adopt fintech. I study data sets that help me predict, analyze and forecast relevant current events in the United States. I consistently practice my craft in a hands on lab setting, designed for ethical hacking. I prototype my design ideas and theories using raspberry pi, arduino and adafruit. And much much more. One of the most important things to remember about me is that <b>I believe in people over profit</tt></b>
 <hr noshade>
